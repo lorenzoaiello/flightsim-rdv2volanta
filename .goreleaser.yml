@@ -1,0 +1,9 @@
+builds:
+  - id: "rdv2volanta"
+    goos:
+      - windows
+      - darwin
+      - linux
+    goarch:
+      - 386
+      - amd64
